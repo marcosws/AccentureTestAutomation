@@ -293,19 +293,4 @@ public class PreencherFormularioPage extends BasePage {
 		this.clickElement(Attribute.Id, "sendemail");
 	}
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 }
